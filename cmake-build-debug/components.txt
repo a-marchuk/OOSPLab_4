@@ -1,0 +1,6 @@
+Intel Core i7-10700K
+INTEL123
+CPU
+400.50
+Intel
+24

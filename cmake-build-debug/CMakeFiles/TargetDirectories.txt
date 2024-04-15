@@ -1,0 +1,3 @@
+D:/Studying/Labs/OS/OOSPLab_4/cmake-build-debug/CMakeFiles/OOSPLab_4.dir
+D:/Studying/Labs/OS/OOSPLab_4/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Studying/Labs/OS/OOSPLab_4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
